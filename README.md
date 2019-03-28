@@ -2,7 +2,7 @@
 # BPSK Modulation Scheme
 
 ### Brief explanation
-#### BPSK uses 2 shift phases seperated by 180 degerees on the carrier to represent '0' and '1',this limits its bit rate to only  1 bit/symbol but it also its immunity to noise as it requires a geat level of distortion before the demodulator fails to recover the original signal.
+#### BPSK uses 2 shift phases seperated by 180 degerees on the carrier to represent '0' and '1',this limits its bit rate to only  1 bit/symbol but it also its immunity to noise as it requires a great level of distortion before the demodulator fails to recover the original signal.
 
 ### Instructions to reproduce the figures
 * Random integer generator 
