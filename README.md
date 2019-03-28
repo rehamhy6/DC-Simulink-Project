@@ -6,8 +6,8 @@
 ### Instructions to reproduce the figures
 
 ### Scatter plots
-![](Scatter-Plots/BPSK1.PNG?raw=true)
-![](Scatter-Plots/BPSK2.PNG?raw=true)
+![](Scatter_Plots/BPSK1.PNG?raw=true)
+![](Scatter_Plots/BPSK2.PNG?raw=true)
 
 ### BER performance figure
 
