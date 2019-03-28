@@ -39,7 +39,7 @@
 * In Random integer generator set M-ary number to 4
 ### Instructions to reproduce the figures
 1. type bertool in command window
-2 In Monte Carlo tab 
+2. In Monte Carlo tab 
    * Eb/No (dB) : -10:1:10
    * BER variable name : QPSK_BER 
    * open simulink file and run
@@ -67,7 +67,7 @@
 * In Random integer generator set M-ary number to 8
 ### Instructions to reproduce the figures
 1. type bertool in command window
-2 In Monte Carlo tab 
+2. In Monte Carlo tab 
    * Eb/No (dB) : -10:1:10
    * BER variable name : FSK_BER 
    * open simulink file and run
@@ -96,7 +96,7 @@
     * Normalization method = average power
 ### Instructions to reproduce the figures
 1. type bertool in command window
-2 In Monte Carlo tab 
+2. In Monte Carlo tab 
    * Eb/No (dB) : -10:1:10
    * BER variable name : QAM16_BER 
    * open simulink file and run
@@ -125,7 +125,7 @@
     * Normalization method = average power
 ### Instructions to reproduce the figures
 1. type bertool in command window
-2 In Monte Carlo tab 
+2. In Monte Carlo tab 
    * Eb/No (dB) : -10:1:10
    * BER variable name : QAM64_BER 
    * open simulink file and run
