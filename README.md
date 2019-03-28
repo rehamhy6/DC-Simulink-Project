@@ -13,10 +13,7 @@
 ![](Scatter_Plots/BPSK2.PNG?raw=true)
 
 
-## using raised cosine filters
 
-![](Scatter_Plots/BPSK1_cosine.PNG?raw=true)
-![](Scatter_Plots/BPSK2_cosine.PNG?raw=true)
 
 
 ### BER performance figure
@@ -24,6 +21,10 @@
 ![](Ber_figures/BPSK_BER.png?raw=true)
 
 ## using raised cosine filters
+
+![](Scatter_Plots/BPSK1_cosine.PNG?raw=true)
+![](Scatter_Plots/BPSK2_cosine.PNG?raw=true)
+### BER performance figure
 ![](Ber_figures/BPSK_BER_COSINE.png?raw=true)
 
 # QPSK Modulation Scheme
@@ -50,6 +51,10 @@
 ![](Ber_figures/QPSK_BER.png?raw=true)
 
 ## using raised cosine filters
+
+![](Scatter_Plots/QPSK1_cosine.PNG?raw=true)
+![](Scatter_Plots/QPSK2_cosine.PNG?raw=true)
+### BER performance figure
 ![](Ber_figures/QPSK_BER_COSINE.png?raw=true)
 # FSK Modulation Scheme
 
@@ -74,6 +79,10 @@
 ![](Ber_figures/FSK_BER.png?raw=true)
 
 ## using raised cosine filters
+
+![](Scatter_Plots/FSK1_cosine.PNG?raw=true)
+![](Scatter_Plots/FSK2_cosine.PNG?raw=true)
+### BER performance figure
 ![](Ber_figures/FSK_BER_COSINE.png?raw=true)
 # QAM-16 Modulation Scheme
 
@@ -89,10 +98,6 @@
 ![](Scatter_Plots/QAM16_1.PNG?raw=true)
 ![](Scatter_Plots/QAM16_2.PNG?raw=true)
 
-## using raised cosine filters
-
-![](Scatter_Plots/QAM16_1_cosine.PNG?raw=true)
-![](Scatter_Plots/QAM16_2_cosine.PNG?raw=true)
 
 
 ### BER performance figure
@@ -100,6 +105,10 @@
 
 ![](Ber_figures/QAM16_BER.png?raw=true)
 
+## using raised cosine filters
+
+![](Scatter_Plots/QAM16_1_cosine.PNG?raw=true)
+![](Scatter_Plots/QAM16_2_cosine.PNG?raw=true)
 ## using raised cosine filters
 ![](Ber_figures/QAM16_BER_COSINE.png?raw=true)
 # QAM-64 Modulation Scheme
@@ -124,6 +133,10 @@ QAM-64 functions like QAM-16 but a higher bit rate and consequently a higher bit
 
 ![](Ber_figures/QAM64_BER.png?raw=true)
 ## using raised cosine filters
+
+![](Scatter_Plots/QAM64_1_cosine.PNG?raw=true)
+![](Scatter_Plots/QAM64_2_cosine.PNG?raw=true)
+### BER performance figure
 ![](Ber_figures/QAM64_BER_COSINE.png?raw=true)
 ### General 
     * sample time = 1
