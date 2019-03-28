@@ -8,7 +8,7 @@
 * In Random integer generator set M-ary number to 2
 ### Instructions to reproduce the figures
 1. type bertool in command window
-2 In Monte Carlo tab 
+2. In Monte Carlo tab 
    * Eb/No (dB) : -10:1:10
    * BER variable name : BPSK_BER 
    * open simulink file and run
