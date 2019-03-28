@@ -1,5 +1,5 @@
 
-**# BPSK Modulation Scheme**
+# BPSK Modulation Scheme
 
 ### Brief explanation
 
