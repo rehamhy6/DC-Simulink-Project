@@ -11,7 +11,7 @@
 
 ### BER performance figure
 
-![](BPSK_BER.fig?raw=true)
+![](BPSK_BER.png?raw=true)
 
 # QPSK Modulation Scheme
 
@@ -26,7 +26,7 @@
 ### BER performance figure
 
 
-![](QPSK_BER.fig?raw=true)
+![](QPSK_BER.png?raw=true)
 
 # FSK Modulation Scheme
 
@@ -41,7 +41,7 @@
 ### BER performance figure
 
 
-![](FSK_BER.fig?raw=true)
+![](FSK_BER.png?raw=true)
 
 # QAM-16 Modulation Scheme
 
@@ -56,7 +56,7 @@
 ### BER performance figure
 
 
-![](QAM16_BER.fig?raw=true)
+![](QAM16_BER.png?raw=true)
 
 # QAM-64 Modulation Scheme
 
@@ -70,4 +70,4 @@
 
 ### BER performance figure
 
-![](QAM64_BER.fig?raw=true)
+![](QAM64_BER.png?raw=true)
