@@ -2,7 +2,7 @@
 # BPSK Modulation Scheme
 
 ### Brief explanation
-#### BPSK runs 2 shift phases seperated by 180 degerees on the carrier to represent '0' and '1',this limits its bit rate to only  1 bit/symbol but it also makes it very immune to noise as it requires a geat deal of distortion before the demodulator fails to recover the original signal.
+#### BPSK uses 2 shift phases seperated by 180 degerees on the carrier to represent '0' and '1',this limits its bit rate to only  1 bit/symbol but it also its immunity to noise as it requires a geat level of distortion before the demodulator fails to recover the original signal.
 
 ### Instructions to reproduce the figures
 * Random integer generator 
@@ -28,7 +28,7 @@
 # QPSK Modulation Scheme
 
 ### Brief explanation
-#### QPSK uses four shift phases which means it can transmit twice the bit rate of BPSK in the same bandwidth,it is equivelant  to QAM-4 with respect to the resulting modulated signal and bit rate.However it is less immune to noise than BPSK and 
+#### QPSK uses four shift phases which means it can transmit twice the bit rate as BPSK in the same bandwidth,it is equivelant  to QAM-4 with respect to the resulting modulated signal and the bit rate.However it is less immune to noise than BPSK and 
 #### requires a more complex circuit. 
 ### Instructions to reproduce the figures
 * Random integer generator 
@@ -97,7 +97,7 @@
 # QAM-64 Modulation Scheme
 
 ### Brief explanation
-#### QAM-64 functions like QAM-16 but a higher bit rate and consequently a higher bit rate error.
+#### QAM-64 functions like QAM-16 but has a higher bit rate and consequently a higher bit rate error.
 ### Instructions to reproduce the figures
 * Random integer generator 
     * set M-ary number to 64
