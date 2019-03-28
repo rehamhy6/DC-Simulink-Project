@@ -37,14 +37,7 @@
 ![](Scatter_Plots/QPSK1.PNG?raw=true)
 ![](Scatter_Plots/QPSK2.PNG?raw=true)
 
-## using raised cosine filters
-
-![](Scatter_Plots/QPSK1_cosine.PNG?raw=true)
-![](Scatter_Plots/QPSK2_cosine.PNG?raw=true)
-
-
 ### BER performance figure
-
 
 ![](Ber_figures/QPSK_BER.png?raw=true)
 
@@ -54,6 +47,8 @@
 ![](Scatter_Plots/QPSK2_cosine.PNG?raw=true)
 ### BER performance figure
 ![](Ber_figures/QPSK_BER_COSINE.png?raw=true)
+
+
 # FSK Modulation Scheme
 
 ### Brief explanation
@@ -65,14 +60,7 @@
 ![](Scatter_Plots/FSK1.PNG?raw=true)
 ![](Scatter_Plots/FSK2.PNG?raw=true)
 
-## using raised cosine filters
-
-![](Scatter_Plots/FSK1_cosine.PNG?raw=true)
-![](Scatter_Plots/FSK2_cosine.PNG?raw=true)
-
-
 ### BER performance figure
-
 
 ![](Ber_figures/FSK_BER.png?raw=true)
 
@@ -96,10 +84,7 @@
 ![](Scatter_Plots/QAM16_1.PNG?raw=true)
 ![](Scatter_Plots/QAM16_2.PNG?raw=true)
 
-
-
 ### BER performance figure
-
 
 ![](Ber_figures/QAM16_BER.png?raw=true)
 
@@ -122,10 +107,6 @@
 ### Scatter plots
 ![](Scatter_Plots/QAM64_1.PNG?raw=true)
 ![](Scatter_Plots/QAM64_2.PNG?raw=true)
-## using raised cosine filters
-
-![](Scatter_Plots/QAM64_1_cosine.PNG?raw=true)
-![](Scatter_Plots/QAM64_2_cosine.PNG?raw=true)
 
 ### BER performance figure
 
