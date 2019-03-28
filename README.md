@@ -2,8 +2,7 @@
 # BPSK Modulation Scheme
 
 ### Brief explanation
-#### BPSK runs 2 shift phases seperated by 180 degerees on the carrier to represent '0' and '1',this limits its bit rate to only  1 bit/symbol but it also makes it very immune to noise as it requires a geat deal of distortion before the demodulator
-#### fails to recover the original signal.
+#### BPSK runs 2 shift phases seperated by 180 degerees on the carrier to represent '0' and '1',this limits its bit rate to only  1 bit/symbol but it also makes it very immune to noise as it requires a geat deal of distortion before the demodulator fails to recover the original signal.
 
 ### Instructions to reproduce the figures
 * Random integer generator 
@@ -139,6 +138,7 @@
 ### BER performance figure
 ![](Ber_figures/QAM64_BER_COSINE.png?raw=true)
 ### General 
+* Random integer generator
     * sample time = 1
     * tick Frame-based output
     * samples per frame = 100
